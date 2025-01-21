@@ -1,1 +1,1 @@
-# budget-planning
+# Budget Planning App
